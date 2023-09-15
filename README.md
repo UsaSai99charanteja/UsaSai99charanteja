@@ -21,6 +21,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai Charanteja Usa-blue)](https://www.linkedin.com/in/https:/sai-charanteja-usa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SaiCharanteja-blue)](https://www.linkedin.com/in/sai-charanteja-usa/)
+
 
 
